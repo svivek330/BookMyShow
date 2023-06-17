@@ -4,17 +4,18 @@ LLD Design of BookMyShow <p>&nbsp;</p>
  <h1>Actors</h1>
 
 <h2>User</h2>
-1. Search by Movies , Location and Theatre Name
+1. Search by Movies, Location, Language, and Theatre Name
 2. Select type of movie like 2D, 3D
 3. Select seats
 4. Select Food Items
 5. Booking
 6. Apply Offers
 7. Payment
+8. Cancel Ticket
 
 
 <h2>Movie Theatre Owner</h2>
-* Theatre details  
+* Theatre details(Location, capacity, mode(2D/3D)  
 * Seats
 * Put Movies Details
 * Provide offers
